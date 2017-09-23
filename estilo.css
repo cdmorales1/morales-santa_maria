@@ -81,7 +81,7 @@ video{
 	min-height:300px;
 	text-align:left;
 	background-color:rgba(204,179,213,1);
-	background-image:url('media/dupla-01.jpg');
+	background-image:url('dupla-01.jpg');
 	background-position:top right;
 	background-repeat:no-repeat;
 	background-size:auto 100%;
@@ -98,7 +98,7 @@ video{
 	min-height:300px;
 	text-align:right;
 	background-color:rgba(207,212,199,1);
-	background-image:url('media/dupla-02.jpg');
+	background-image:url('dupla-02.jpg');
 	background-position:top left;
 	background-repeat:no-repeat;
 	background-size:auto 100%;
